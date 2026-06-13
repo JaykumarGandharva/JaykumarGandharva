@@ -5,7 +5,7 @@ Two papers accepted at Springer.
 
 - 🔬 I work on LLM evaluation, prompt engineering, and agentic systems
 - 🛠️ Python · PyTorch · LangChain · FastAPI · Docker · MLflow
--📄 2× ICTIS Thailand Author — LLM Code Summarization & Multimodal Emotion Recognition
+- 📄 2× ICTIS Thailand Author — LLM Code Summarization & Multimodal Emotion Recognition
 - 🌱 Currently building cost-aware MLOps tooling
 - 📫 jaykumargandharva@gmail.com
 
