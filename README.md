@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Jaykumar 👋
 
-<!--
-**JaykumarGandharva/JaykumarGandharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer** specialising in LLM evaluation, RAG, and production MLOps.
+Two papers accepted at Springer.
 
-Here are some ideas to get you started:
+- 🔬 I work on LLM evaluation, prompt engineering, and agentic systems
+- 🛠️ Python · PyTorch · LangChain · FastAPI · Docker · MLflow
+- 📄 2× Springer 2026 — LLM code summarisation & multimodal emotion recognition
+- 🌱 Currently building cost-aware MLOps tooling
+- 📫 jaykumargandharva@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/jaykumar-gandharva-183a68410/)
+
+#### Featured
+- **[codesum-bench](https://github.com/JaykumarGandharva/codesum-bench)** — reproducible harness for evaluating LLM prompt strategies on code summarisation SPRINGER 2026
